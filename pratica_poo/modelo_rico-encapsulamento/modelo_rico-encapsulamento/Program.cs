@@ -29,10 +29,10 @@ namespace modelo_rico_encapsulamento
             var result3 = Addition(100, 300, 500);
             var result4 = Addition(100, 200, 300, 400);
 
-            Console.WriteLine($"Soma com 1 paramêtro{result}");
-            Console.WriteLine($"Soma com 2 paramêtros{result2}");
-            Console.WriteLine($"Soma com 3 paramêtros{result3}");
-            Console.WriteLine($"Soma com 4 paramêtros{result4}");
+            Console.WriteLine($"Soma com 1 parâmetro{result}");
+            Console.WriteLine($"Soma com 2 parâmetros{result2}");
+            Console.WriteLine($"Soma com 3 parâmetros{result3}");
+            Console.WriteLine($"Soma com 4 parâmetros{result4}");
 
             Console.ReadLine();
         }
