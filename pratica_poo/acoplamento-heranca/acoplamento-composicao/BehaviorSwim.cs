@@ -1,5 +1,5 @@
 ﻿
-namespace acoplamento_heranca
+namespace acoplamento_composicao
 {
     public class BehaviorSwim
     {
