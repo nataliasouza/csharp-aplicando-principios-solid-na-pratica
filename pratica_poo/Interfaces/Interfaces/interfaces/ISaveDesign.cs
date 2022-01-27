@@ -2,6 +2,6 @@
 {
     public interface ISaveDesign
     {
-        public void SaveDesign();
+        public void SaveDesignForm();
     }
 }

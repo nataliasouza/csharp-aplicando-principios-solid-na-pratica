@@ -6,7 +6,9 @@ namespace Interfaces
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var saveDesign = new SaveDesing();            
+            saveDesign.NameDesignForm(); //sobrescreve o método da classe base
+            saveDesign.SaveDesignForm(); //método da interface
         }
     }
 }
